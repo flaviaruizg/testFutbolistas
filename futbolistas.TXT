@@ -1,0 +1,75 @@
+[
+    {
+      Nombre: "Cristiano Ronaldo",
+      Equipo: "Juventus fc.",
+      img: "ronaldo.jpg",
+      Debut: "14-08-2002",
+      nacionalidad:"Portuguesa",
+      posicion:"Delantero",
+      goles:"628"
+    },
+ {
+      Nombre: "Messi",
+      Equipo: "Barcelona Fc.",
+      img: "messi.jpg",
+      Debut: "16-10-2004",
+      nacionalidad:"Argentina",
+      posicion:"Delantero, centrocampista",
+      goles:"629"
+    },
+ {
+      Nombre: "Mbappe",
+      Equipo: "Paris Saint-Germain.",
+      img: "mbape.jpg",
+      Debut: "02-09-2015",
+      nacionalidad:"Francesa",
+      posicion:"Delantero",
+      goles:"117"
+    },
+ {
+      Nombre: "Harry Kane",
+      Equipo: "Tottenham FC.",
+      img: "kane.jpg",
+      Debut: "11-01-2011",
+      nacionalidad:"Britanica",
+      posicion:"Delantero",
+      goles:"208"
+    },
+ {
+      Nombre: "Salah",
+      Equipo: "Liverpool FC.",
+      img: "salah.jpg",
+      Debut: "03-05-2010",
+      nacionalidad:"Egipcia",
+      posicion:"Delantero",
+      goles:"177"
+    },
+ {
+      Nombre: "Manuel Neuer",
+      Equipo: "Bayern Munich FC.",
+      img: "neuer.jpg",
+      Debut: "19-08-2006",
+      nacionalidad:"Alemana",
+      posicion:"Guardameta",
+      goles permitidos:"90"
+    },
+ {
+      Nombre: "Hazard",
+      Equipo: "Real Madrid FC.",
+      img: "hazard.jpg",
+      Debut: "24-11-2007",
+      nacionalidad:"Belga",
+      posicion:"Delantero",
+      goles:"106"
+    },
+ {
+      Nombre: "Sadio Mane",
+      Equipo: "Liverpool FC.",
+      img: "mane.jpg",
+      Debut: "14-01-2012",
+      nacionalidad:"Senegalesa",
+      posicion:"Delantero",
+      goles:"149"
+    }
+ 
+];
